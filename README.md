@@ -2,4 +2,4 @@
 [Praxis Business School](https://praxis.ac.in)<br>
 ## Relational Databases and Data Warehousing
 
-Codes used in the class
+Here is the [Course Outline and Session Plan](https://docs.google.com/document/d/1RA-hSFnyu4Q-U-Y1yDloDU11Gqkp75eVHYM42Up1fWc/edit?usp=sharing)
